@@ -18,6 +18,8 @@ Meeting Room booking app using Spring Boot and H2 data base
 5. Run BrillioBookMeetingRoomApplication class having the main method for the application.
 6. Open Postman and paste the Swagger URL: 
 
+	Hosted on Heroku - https://brillio-meeting-app.herokuapp.com/api/v1/meetingRoom/getRooms
+	
 	Please checkout the below URLs for all details on API requests and responses 
 		JSON Documentation    -  http://localhost:8083/api/v1/v2/api-docs
 		Swagger Documentation -  http://localhost:8083/api/v1/swagger-ui.html#/
